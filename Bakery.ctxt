@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bakery
+comment1.params=
+comment1.target=Bakery()
+comment2.params=product
+comment2.target=void\ addProduct(BakeryProduct)
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

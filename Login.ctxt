@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Login
+comment1.params=inputPassword
+comment1.target=boolean\ authenticate(java.lang.String)
+numComments=2
